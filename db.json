@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "First Post"
+      "title": "First Post",
+      "body": "This is a test post from my fake server"
     }
   ],
   "profile": {
